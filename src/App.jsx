@@ -73,7 +73,7 @@ function App() {
           <h3 className="text-2xl font-bold mb-4">Localização e Contato:</h3>
           <p className="text-lg">📍 <strong className="font-bold">Endereço:</strong> Rua Rita Marcelina, 565, Boa Vista, Belo Horizonte-MG, <strong className="font-bold">CEP 04753-140</strong></p>
           <p className="text-lg">📞 <strong className="font-bold">Telefone/WhatsApp:</strong> <a href="https://wa.me/5531973198749" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">(31) 97319-8749</a></p>
-          <p className="text-lg mt-4">Na <strong className="font-bold">Marketing 360 LTDA</strong>, estamos prontos para ajudar você a <strong className="font-bold">alcançar os melhores resultados</strong>. Peça já e descubra como <strong className="font-bold">uma estratégia bem definida pode transformar qualquer negócio em um sucesso! 🚀✨trong> 🍕✨</p>
+          <p className="text-lg mt-4">Na <strong className="font-bold">Marketing 360 LTDA</strong>, estamos prontos para ajudar você a <strong className="font-bold">alcançar os melhores resultados</strong>. Peça já e descubra como <strong className="font-bold">uma estratégia bem definida pode transformar qualquer negócio em um sucesso! 🚀✨</p>
         </section>
 
         <section className="my-8 text-center">
